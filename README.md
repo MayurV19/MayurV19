@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### About Me:
-- I am Mayur V, a seasoned **Data Analyst** with 1 years of experience, who is very enthusiasitc about data analytics, tools and techniques. I love providing value to decision-makers and business stakeholders in the form of dashboarding solutions, ad-hoc reporting, data cleaing and reconciliation, data validation, etc., among other things.
+- I am Mayur V, a seasoned **Data Analyst** with 1 years of experience, who is very enthusiastic about data science & analytics. I love providing value to decision-makers and business stakeholders in the form of dashboarding solutions, ad-hoc reporting, data cleaing and reconciliation, data validation, etc., among other things.
 - I currently work as an [Associate BI Analyst] at [Leadenhall Analytics](https://uk.linkedin.com/company/leadenhallanalytics).
 - I am a [Microsoft Certified](https://learn.microsoft.com/api/credentials/share/en-us/MayurV19/961493AE734B5BEF?sharingId=8EC6BA7852B248D) **Power BI Data Analyst**, with expansive skills and experience in ingesting, preparing, analyzing and presenting data in Power BI reports and dashboards.
 - At my work, I work on enhancing and maintaining critical **MI Dashboards**, gathering and clarifying dashboarding requirements and proving ad-hoc exploration reports to assist in data driven decision-making 
