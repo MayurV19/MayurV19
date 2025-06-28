@@ -4,7 +4,7 @@
 - I currently work as an **Associate BI Analyst** at [Leadenhall Analytics](https://uk.linkedin.com/company/leadenhallanalytics).
 - I am a [Microsoft Certified](https://learn.microsoft.com/api/credentials/share/en-us/MayurV19/961493AE734B5BEF?sharingId=8EC6BA7852B248D) **Power BI Data Analyst**, with expansive skills and experience in ingesting, preparing, analyzing and presenting data in Power BI reports and dashboards.
 - At my work, I work on enhancing and maintaining critical **MI Dashboards**, gathering and clarifying dashboarding requirements and proving ad-hoc exploration reports to assist in data driven decision-making 
-- During my off days, I am busy in building real-time, industry relevant, portfolio projects that not only demonstrate my technical and tool skills, but also showcase my DOMAIN KNOWLEDGE understanding of specific industries. I am also a leaner at [DataCamp](https://www.datacamp.com) and [Codebasics](https://codebasics.io/) where I learn about newer concepts and how technology skills can be leveraged for impact.
+- During my days off, I am busy in learning more about the data world at [DataCamp](https://www.datacamp.com) and [Codebasics](https://codebasics.io/).
 
 Enough of listening to me for so long... :-D
 ### What you can do now:
